@@ -4,7 +4,7 @@ This is a mini docker container based on Alpine OS and Apache version 2.4.
 
 This image is build using [alpine](https://hub.docker.com/r/_/alpine/) offical image as base image and installing Apache component. No other modifications maded, no more component were added.
 
-To view build process check the [Dockerfile](https://github.com/rajezvelse/docker-alpine-nginx/blob/master/Dockerfile).
+To view build process check the [Dockerfile](https://github.com/rajezvelse/docker-alpine-apache/blob/master/Dockerfile).
 
 #### Starting the container as a daemon
 
