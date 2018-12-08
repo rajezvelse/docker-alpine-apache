@@ -24,6 +24,8 @@ sleep 1s \n\
 " > /start.sh && \
 chmod a+x /start.sh
 
+WORKDIR /var/www/localhost
+
 # expose ports
 EXPOSE 80 443
 
